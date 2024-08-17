@@ -39,17 +39,17 @@ Most frequent year for attacks: 2015
 ## Relationship between the number of casualties and the type of attack.
 
 # Key Visualizations
-Line plot showing the trend of terrorist attacks over the years.
-![Capture1](images/photo.png)
+- Line plot showing the trend of terrorist attacks over the years.
+![My Image](Images/Capture1.PNG)
 
-Bar plot of the number of attacks by region and by country.
-Heatmap to visualize correlations between different features.
-Scatter plot showing the relationship between the number of casualties and the type of attack.
+- Bar plot of the number of attacks by region and by country.
+- Heatmap to visualize correlations between different features.
+- Scatter plot showing the relationship between the number of casualties and the type of attack.
 
 # Dashboard
 The dashboard provides an interactive way to explore the dataset and visualize the findings. 
 It includes:
-Overview Page
-Attackes Page: It describes number of attacks by region, country, year, attack type.
-Success Rate Page: It describes Success rate of attacks by region, country, year, group name, target, weapon.
-Killed Page: It describes number of killed by region, country, year, nationality, group name, weapon.
+- Overview Page
+- Attackes Page: It describes number of attacks by region, country, year, attack type.
+- Success Rate Page: It describes Success rate of attacks by region, country, year, group name, target, weapon.
+- Killed Page: It describes number of killed by region, country, year, nationality, group name, weapon.
