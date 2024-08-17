@@ -40,6 +40,7 @@ Most frequent year for attacks: 2015
 
 # Key Visualizations
 - Line plot showing the trend of terrorist attacks over the years.
+-- the line plot shows that the terrorist attacks increased after 2010
 ![My Image](Images/Capture1.PNG)
 
 - Bar plot of the number of attacks by region and by country.
