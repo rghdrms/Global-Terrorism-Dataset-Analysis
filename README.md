@@ -9,18 +9,18 @@ most affected regions, attack types, and more.
 The project also includes a performance comparison between Pandas and Dask for handling large datasets.
 
 # Project Structure
-notebooks/: Jupyter notebooks containing the analysis and visualizations.\n
-dashboard/: Files related to the dashboard visualization.\n
-data/: The cleaned dataset used for analysis.\n
-report.pdf: The PDF report summarizing the findings from the analysis.\n
+-notebooks/: Jupyter notebooks containing the analysis and visualizations.
+-dashboard/: Files related to the dashboard visualization.
+-data/: The cleaned dataset used for analysis.
+-report.pdf: The PDF report summarizing the findings from the analysis.
 
 # Installation
 To run the notebooks or dashboard locally, you'll need the following Python libraries:
-Pandas\n
-Numpy\n
-Dask\n
-Matplotlib\n
-Seaborn\n
+Pandas
+Numpy
+Dask
+Matplotlib
+Seaborn
 Power BI to open the dashboard
 
 # Analysis and Findings
