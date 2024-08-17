@@ -9,10 +9,9 @@ most affected regions, attack types, and more.
 The project also includes a performance comparison between Pandas and Dask for handling large datasets.
 
 # Project Structure
-- `notebooks/`: Jupyter notebooks containing the analysis and visualizations.
-- `dashboard/`: Files related to the dashboard visualization.
-- `data/`: The cleaned dataset used for analysis.
-- `report.pdf`: The PDF report summarizing the findings from the analysis.
+- `Global_Terrorism_updated/`: Jupyter notebooks containing the analysis and visualizations.
+- `global terrorism_updated/`: Files related to the dashboard visualization.
+- `Global_Terrorism_Updated/`: The cleaned dataset used for analysis.
 
 # Installation
 To run the notebooks or dashboard locally, you'll need the following Python libraries:
