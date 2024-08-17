@@ -32,13 +32,12 @@ The analysis covers several aspects of the dataset, including:
 - Most Weapon type used: Explosives
 - Most terrorist group: Taliban
 - Most affected target: Private Citizens & Property
+  
 ## Most Frequent Values in Numeric Columns:
 Most frequent year for attacks: 2015
 
-## Trends in terrorist attacks over the years.
-## Relationship between the number of casualties and the type of attack.
-
 # Key Visualizations
+
 ## Line plot showing the trend of terrorist attacks over the years.
 - The line plot shows that the terrorist attacks increased after 2010
   
