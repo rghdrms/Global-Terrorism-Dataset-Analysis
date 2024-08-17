@@ -16,22 +16,22 @@ The project also includes a performance comparison between Pandas and Dask for h
 
 # Installation
 To run the notebooks or dashboard locally, you'll need the following Python libraries:
-Pandas
-Numpy
-Dask
-Matplotlib
-Seaborn
-Power BI to open the dashboard
+- Pandas
+- Numpy
+- Dask
+- Matplotlib
+- Seaborn
+- Power BI to open the dashboard
 
 # Analysis and Findings
 The analysis covers several aspects of the dataset, including:
 ## Most Frequent Values in Categorical Columns:
-Most afected region: South Asia
-Most affected country: Afghanistan
-Most attack type used: Bombing/Explosion
-Most Weapon type used: Explosives
-Most terrorist group: Taliban
-Most affected target: Private Citizens & Property
+- Most afected region: South Asia
+- Most affected country: Afghanistan
+- Most attack type used: Bombing/Explosion
+- Most Weapon type used: Explosives
+- Most terrorist group: Taliban
+- Most affected target: Private Citizens & Property
 ## Most Frequent Values in Numeric Columns:
 Most frequent year for attacks: 2015
 
