@@ -15,6 +15,7 @@ The project also includes a performance comparison between Pandas and Dask for h
 
 # Analysis and Findings
 The analysis covers several aspects of the dataset, including:
+
 ## Most Frequent Values in Categorical Columns:
 - Most afected region: South Asia
 - Most affected country: Afghanistan
@@ -53,18 +54,27 @@ Most frequent year for attacks: 2015
   ![My Image](Images/Capture5.PNG)
   
 # Dashboard
+
 The dashboard provides an interactive way to explore the dataset and visualize the findings. 
 It includes:
 - Overview Page
+- 
   ![My Image](Images/Capture6.PNG)
+  
 - Attackes Page: It describes number of attacks by region, country, year, attack type.
+  
   ![My Image](Images/Capture7.PNG)
+  
 - Success Rate Page: It describes Success rate of attacks by region, country, year, group name, target, weapon.
+  
   ![My Image](Images/Capture8.PNG)
+  
 - Killed Page: It describes number of killed by region, country, year, nationality, group name, weapon.
+  
 ![My Image](Images/Capture9.PNG)
 
 # Installation
+
 To run the notebooks or dashboard locally, you'll need the following Python libraries:
 - Pandas
 - Numpy
