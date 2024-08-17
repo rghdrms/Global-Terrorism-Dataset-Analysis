@@ -39,11 +39,15 @@ Most frequent year for attacks: 2015
 ## Relationship between the number of casualties and the type of attack.
 
 # Key Visualizations
-- Line plot showing the trend of terrorist attacks over the years.
--- the line plot shows that the terrorist attacks increased after 2010
+##Line plot showing the trend of terrorist attacks over the years.
+- The line plot shows that the terrorist attacks increased after 2010
+  
 ![My Image](Images/Capture1.PNG)
 
-- Bar plot of the number of attacks by region and by country.
+## Bar plot of the number of attacks by region and by country.
+- The bar plot shows that the terrorist attacks are high in South Asia then in Middle East & North Africa
+![My Image](Images/Capture2.PNG)
+  
 - Heatmap to visualize correlations between different features.
 - Scatter plot showing the relationship between the number of casualties and the type of attack.
 
