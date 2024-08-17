@@ -39,22 +39,38 @@ Most frequent year for attacks: 2015
 ## Relationship between the number of casualties and the type of attack.
 
 # Key Visualizations
-##Line plot showing the trend of terrorist attacks over the years.
+## Line plot showing the trend of terrorist attacks over the years.
 - The line plot shows that the terrorist attacks increased after 2010
   
 ![My Image](Images/Capture1.PNG)
 
 ## Bar plot of the number of attacks by region and by country.
 - The bar plot shows that the terrorist attacks are high in South Asia then in Middle East & North Africa
-![My Image](Images/Capture2.PNG)
   
-- Heatmap to visualize correlations between different features.
-- Scatter plot showing the relationship between the number of casualties and the type of attack.
+![My Image](Images/Capture2.PNG)
 
+## Bar plot of the number of attacks by country
+- The bar plot shows that the terrorist attacks are the highest in Afghanstan
+
+![My Image](Images/Capture3.PNG)  
+
+## Heatmap to visualize correlations between different features.
+
+![My Image](Images/Capture4.PNG)
+
+## Scatter plot showing the relationship between the number of casualties and the type of attack.
+- Scatter plot shows that Bombing/Explosive has a high number of casualties
+
+  ![My Image](Images/Capture5.PNG)
+  
 # Dashboard
 The dashboard provides an interactive way to explore the dataset and visualize the findings. 
 It includes:
 - Overview Page
+  ![My Image](Images/Capture6.PNG)
 - Attackes Page: It describes number of attacks by region, country, year, attack type.
+  ![My Image](Images/Capture7.PNG)
 - Success Rate Page: It describes Success rate of attacks by region, country, year, group name, target, weapon.
+  ![My Image](Images/Capture8.PNG)
 - Killed Page: It describes number of killed by region, country, year, nationality, group name, weapon.
+![My Image](Images/Capture9.PNG)
