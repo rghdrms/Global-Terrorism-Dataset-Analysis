@@ -13,15 +13,6 @@ The project also includes a performance comparison between Pandas and Dask for h
 - `global terrorism_updated/`: Files related to the dashboard visualization.
 - `Global_Terrorism_Updated/`: The cleaned dataset used for analysis.
 
-# Installation
-To run the notebooks or dashboard locally, you'll need the following Python libraries:
-- Pandas
-- Numpy
-- Dask
-- Matplotlib
-- Seaborn
-- Power BI to open the dashboard
-
 # Analysis and Findings
 The analysis covers several aspects of the dataset, including:
 ## Most Frequent Values in Categorical Columns:
@@ -72,3 +63,12 @@ It includes:
   ![My Image](Images/Capture8.PNG)
 - Killed Page: It describes number of killed by region, country, year, nationality, group name, weapon.
 ![My Image](Images/Capture9.PNG)
+
+# Installation
+To run the notebooks or dashboard locally, you'll need the following Python libraries:
+- Pandas
+- Numpy
+- Dask
+- Matplotlib
+- Seaborn
+- Power BI to open the dashboard
