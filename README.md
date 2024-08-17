@@ -58,20 +58,28 @@ Most frequent year for attacks: 2015
 The dashboard provides an interactive way to explore the dataset and visualize the findings. 
 It includes:
 - Overview Page
-- 
+
+
   ![My Image](Images/Capture6.PNG)
+
   
 - Attackes Page: It describes number of attacks by region, country, year, attack type.
+
   
   ![My Image](Images/Capture7.PNG)
+
   
 - Success Rate Page: It describes Success rate of attacks by region, country, year, group name, target, weapon.
+
   
   ![My Image](Images/Capture8.PNG)
+
   
 - Killed Page: It describes number of killed by region, country, year, nationality, group name, weapon.
+
   
 ![My Image](Images/Capture9.PNG)
+
 
 # Installation
 
