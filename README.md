@@ -9,10 +9,10 @@ most affected regions, attack types, and more.
 The project also includes a performance comparison between Pandas and Dask for handling large datasets.
 
 # Project Structure
-- `Global_Terrorism_updated/`: Jupyter notebooks containing the analysis and visualizations.
-- `global terrorism_Dashboard_updated/`: Files related to the dashboard visualization.
-- `Global_Terrorism_Cleaned_Updated/`: The cleaned dataset used for analysis.
-- `Report_Updated/`: The PDF report summarizing the findings from the analysis.
+- `Global_Terrorism_updated.ipynb/`: Jupyter notebooks containing the analysis and visualizations.
+- `global terrorism_Dashboard_updated.pbix/`: Files related to the dashboard visualization.
+- `Global_Terrorism_Cleaned_Updated.xls/`: The cleaned dataset used for analysis.
+- `Report_Updated.pdf/`: The PDF report summarizing the findings from the analysis.
 
 # Analysis and Findings
 The analysis covers several aspects of the dataset, including:
